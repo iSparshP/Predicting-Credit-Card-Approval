@@ -1,4 +1,7 @@
-# Predicting-Credit-Card-Approval
+
+# Predicting Credit Card Approval
+
+
 In this project, we will be using machine learning algorithms to predict credit card approvals for individuals. The project will involve the following phases:
 
 Requirements gathering and analysis: In this phase, we will gather and analyze the requirements for the project, including the features to be used for predicting credit card approvals, the performance metrics to be used to evaluate the model, and any other business requirements.
@@ -13,13 +16,24 @@ Testing and deployment: In this phase, we will test the system thoroughly to ens
 
 Overall, this project will provide valuable insights into the credit card approval process and help individuals better understand their chances of getting approved for a credit card. Additionally, the predictive model developed in this project can be used by credit card companies to improve their approval process and reduce the risk of fraud. The user interface will provide an easy-to-use and intuitive way for users to determine their credit card approval status, and the integration with credit card issuers' systems will allow for seamless communication and decision-making.
 
-# Resource Estimation: 
 
-Hardware: 
-high-performance servers for data processing and machine learning model training. 
-development server for development and testing.
+## Resource Estimation:
+Hardware: machine for data processing and machine learning model training. development server for development and testing.
 
-Software: 
-Python 3.x 
-Python Libraries: NumPy, Pandas, Scikit-Learn, and TensorFlow for machine learning development. 
-Git for version control. 
+Software: Python 3.x Python Libraries: NumPy, Pandas, Scikit-Learn, and TensorFlow for machine learning development. Git for version control.
+
+## Tasks:
+
+Task 1: Data Inspection 
+  
+Task 2: Handling Missing Values 
+
+Task 3: Data Preprocessing 
+
+Task 4: Splitting the Dataset 
+
+Task 5: Fitting a Logistic Regression Model 
+
+Task 6: Grid Searching and Model Performance Improvement 
+
+Task 7: Finding the Best Performing Model 
